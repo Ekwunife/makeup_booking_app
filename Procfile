@@ -1,0 +1,1 @@
+web: sh streamlit_setup.sh && streamlit run my_makeup_app.py
