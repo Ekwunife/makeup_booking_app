@@ -3,7 +3,7 @@ from PIL import Image
 
 st.title("MEL BEAUTY")
 
-img = Image.open("Mel_Beauty.png")
+img = Image.open("mel_beauty.png")
 st.image(img, width=300)
 
 
